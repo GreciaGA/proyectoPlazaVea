@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	az_botm	96fd46661a527e0f139441673d58902e
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	az_asm	4B6D00568D57D73EAEFB9D7C10CE70519888642E4FD354D9E26135DF414CF4F271271C6DED0EBA96444B184B2F11C65EA3A66EDD2DF91343121E4D4A9B905F0E
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	VTEXSC	sc=1
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	ISSMB	ScreenMedia=0&UserAcceptMobile=False
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	SGTS	8F29EAC429254CBDDA94F32707DD8DD1
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	janus_sid	2f461ad3-1963-4566-99a4-062a030e0cf8
+www.plazavea.com.pe	TRUE	/	FALSE	1999999999	samesite	lax
+

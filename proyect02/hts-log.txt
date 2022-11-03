@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Nov 2022 10:16:51 at https://www.plazavea.com.pe +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.plazavea.com.pe -O1 "C:\proyectsHTrack\proyect02" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:17:24	Error: 	Exit requested by shell or user
+10:17:24	Warning: 	File not added due to mirror cancel: https://io.vtex.com.br/rc/rc.js
+10:17:24	Warning: 	Link https://www.plazavea.com.pe/checkout/ not scanned (follow robots meta tag)
+10:17:24	Error: 	"Not Found" (404) at link https://www.plazavea.com.pe/checkout/cart/add (from https://www.plazavea.com.pe/)
+10:17:24	Warning: 	Link https://www.plazavea.com.pe/S/ not scanned (follow robots meta tag)
+10:17:24	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.plazavea.com.pe/)
+10:17:25	Warning: 	Link https://www.plazavea.com.pe/busca/?fq=H:10178 not scanned (follow robots meta tag)
+10:17:25	Warning: 	Link https://www.plazavea.com.pe/busca/?fq=H:11982 not scanned (follow robots meta tag)
+10:17:25	Warning: 	File not added due to mirror cancel: www.plazavea.com.pe/robots.txt
+10:17:25	Warning: 	Moved Permanently for www.plazavea.com.pe/busca/?fq=H:12216
+10:17:25	Warning: 	Redirected link is identical because of 'URL Hack' option: www.plazavea.com.pe/busca/?fq=H:12216 and https://www.plazavea.com.pe/busca/?fq=H:12216
+10:17:25	Warning: 	File has moved from www.plazavea.com.pe/busca/?fq=H:12216 to https://www.plazavea.com.pe/busca/?fq=H:12216
+10:17:26	Error: 	"Not Found" (404) at link https://plazavea.vteximg.com.br/arquivos/plazavea-apple-touch-icon.png (from https://www.plazavea.com.pe/checkout/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 73 links scanned, 67 files written (6604647 bytes overall) [1527235 bytes received at 43635 bytes/sec], 6575693 bytes transferred using HTTP compression in 58 files, ratio 21%, 2.9 requests per connection
+(4 errors, 9 warnings, 0 messages)
